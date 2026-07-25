@@ -18,8 +18,10 @@ Speed
 
 User experience
 
-## Algorithm
+## output
+<img width="983" height="837" alt="image" src="https://github.com/user-attachments/assets/eb2fa3b7-1ea2-4d5e-83d1-42ab3b0dc2c8" />
+
 
 ## Result
-
+Thus the evaluate and compare the effectiveness of prompting techniques platforms
 
